@@ -43,6 +43,6 @@ The goal is not to replace human interaction, but to **surface past wisdom** in 
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/community-memory-ai.git
+git clone https://github.com/laniefrancisco/community-memory-ai.git
 # community-AI
 A retrieval-based conversational system for preserving community knowledge.
