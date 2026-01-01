@@ -1,3 +1,5 @@
+![Community Memory AI Banner](assets/banner.png)
+
 # Community Memory AI
 
 **A retrieval-based conversational system for preserving community knowledge.**
