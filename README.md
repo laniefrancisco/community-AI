@@ -1,4 +1,7 @@
-![Community Memory AI Banner](assets/banner.png)
+<p align="center">
+  <img src="banner.png" alt="Community Memory AI Banner">
+</p>
+
 
 # Community Memory AI
 
